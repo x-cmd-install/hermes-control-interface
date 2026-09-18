@@ -36,7 +36,7 @@ Total: **26,124** lines of code across **67** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 896 · **Forks**: 130 · **Open issues**: 30 · **Contributors**: 15
+- **Stars**: 898 · **Forks**: 131 · **Open issues**: 30 · **Contributors**: 15
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **26,124** lines of code across **67** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-07-19 | 0 | 0 | 2 | 0 | 0 | 0 |
-| 90d | 2026-06-19 | 1 | 2 | 2 | 0 | 0 | 13 |
-| last180d | 2026-03-21 | 27 | 38 | 3 | 29 | 1 | 258 |
-| 360d | 2025-09-22 | 27 | 38 | 3 | 29 | 1 | 258 |
-| last720d | 2024-09-27 | 27 | 38 | 3 | 29 | 1 | 285 |
+| 30d | 2026-08-19 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-07-20 | 0 | 0 | 2 | 0 | 0 | 0 |
+| 90d | 2026-06-20 | 1 | 2 | 2 | 0 | 0 | 13 |
+| last180d | 2026-03-22 | 27 | 38 | 3 | 29 | 1 | 258 |
+| 360d | 2025-09-23 | 27 | 38 | 3 | 29 | 1 | 258 |
+| last720d | 2024-09-28 | 27 | 38 | 3 | 29 | 1 | 285 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for hermes-control-interface lives in the [x-cmd/install](https
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T06:06:00Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T06:00:44Z._
