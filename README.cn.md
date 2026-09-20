@@ -4,7 +4,7 @@
 
 A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a single password gate.
 
-![hermes-control-interface](https://repo.x-cmd.io/hermes-control-interface.svg?lang=zh)
+[![x-cmd/install — hermes-control-interface Code Quality Monitoring Repo Card](https://repo.x-cmd.io/hermes-control-interface.svg?lang=zh)](https://x-cmd.com/install/hermes-control-interface)
 
 ## 安装
 
@@ -36,7 +36,7 @@ x install hermes-control-interface
 
 ## 流行度
 
-- **Star**: 898 · **Fork**: 131 · **开放 issue**: 30 · **贡献者**: 15
+- **Star**: 898 · **Fork**: 130 · **开放 issue**: 30 · **贡献者**: 15
 
 ## 累计统计
 
@@ -46,12 +46,12 @@ x install hermes-control-interface
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 2 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 1 | 2 | 2 | 0 | 0 | 13 |
-| last180d | 2026-03-22 | 27 | 38 | 3 | 29 | 1 | 258 |
-| 360d | 2025-09-23 | 27 | 38 | 3 | 29 | 1 | 258 |
-| last720d | 2024-09-28 | 27 | 38 | 3 | 29 | 1 | 285 |
+| 30d | 2026-08-21 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 2 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 1 | 2 | 2 | 0 | 0 | 0 |
+| last180d | 2026-03-24 | 27 | 38 | 3 | 29 | 1 | 258 |
+| 360d | 2025-09-25 | 27 | 38 | 3 | 29 | 1 | 258 |
+| last720d | 2024-09-30 | 27 | 38 | 3 | 29 | 1 | 285 |
 
 ## 改进这些数据
 
@@ -62,4 +62,4 @@ hermes-control-interface 的安装元数据由 [x-cmd/install](https://github.co
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:00:44Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:04:18Z._
