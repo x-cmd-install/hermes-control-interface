@@ -36,22 +36,22 @@ Total: **26,124** lines of code across **67** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 902 · **Forks**: 129 · **Open issues**: 31 · **Contributors**: 14
+- **Stars**: 901 · **Forks**: 130 · **Open issues**: 31 · **Contributors**: 15
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 37 · **Open PRs**: 4 · **Closed issues**: 29 · **Open issues**: 2 · **Commits**: 285
+- **Releases**: 27 · **Merged PRs**: 38 · **Open PRs**: 4 · **Closed issues**: 29 · **Open issues**: 2 · **Commits**: 285
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-09-06 | 0 | 0 | 3 | 0 | 1 | 0 |
-| 90d | 2026-08-07 | 0 | 0 | 3 | 0 | 1 | 0 |
-| last180d | 2026-05-09 | 5 | 16 | 3 | 2 | 1 | 37 |
-| 360d | 2025-11-10 | 27 | 37 | 4 | 29 | 2 | 257 |
-| last720d | 2024-11-15 | 27 | 37 | 4 | 29 | 2 | 285 |
+| 30d | 2026-10-07 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last60d | 2026-09-07 | 0 | 0 | 2 | 0 | 1 | 0 |
+| 90d | 2026-08-08 | 0 | 0 | 3 | 0 | 1 | 0 |
+| last180d | 2026-05-10 | 5 | 17 | 3 | 2 | 1 | 38 |
+| 360d | 2025-11-11 | 27 | 38 | 4 | 29 | 2 | 258 |
+| last720d | 2024-11-16 | 27 | 38 | 4 | 29 | 2 | 285 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for hermes-control-interface lives in the [x-cmd/install](https
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T07:43:33Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T07:32:04Z._
